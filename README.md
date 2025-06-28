@@ -1,4 +1,4 @@
-# Baking-Client-Retention
+# Banking-Client-Retention
 
 This project focuses on building and evaluating multiple machine learning models to predict customer churn. The goal is to identify customers who are likely to leave a service, enabling businesses to take proactive retention measures.
 
